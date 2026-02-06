@@ -1,14 +1,9 @@
+![Ranvire Sand Castle](https://avatars.githubusercontent.com/u/259600333?s=200&v=4)
 # Ranvire (RanvierMUD Discovery Fork)
 
-**NB / TL;DR:** This is a discovery fork; a maintenance-focused modernization effort related to Ranvier lives at **[https://github.com/Ranvire/ranviermud](https://github.com/Ranvire/ranviermud)**.
+This repository is a **discovery fork** for the original [RanvierMUD](https://github.com/RanvierMUD/ranviermud) project, pointing to an active maintenance project [RanvireMUD](https://github.com/Ranvire/ranviermud)
 
-This repository is a **discovery fork** of the original [RanvierMUD](https://github.com/RanvierMUD/ranviermud) project.
-
-It exists to remain visible in the upstream fork network and to point interested users to a separate effort focused on modernizing and stabilizing the Ranvier engine.
-
-## Related project: Ranvire
-
-A separate project, **Ranvire**, is working on a maintenance-focused modernization of Ranvier, including:
+This repo exists to remain visible in the upstream fork network and to point interested users to this separate effort focused on modernizing and stabilizing the Ranvier engine, including:
 
 - updating the runtime to modern Node.js
 - adding CI and smoke tests
@@ -27,7 +22,7 @@ If you are looking to experiment with Ranvier or follow ongoing maintenance effo
 
 ## Upstream respect
 
-This fork does not claim ownership of the RanvierMUD project. If the original maintainers are interested in reviewing or merging maintenance improvements, that discussion is more than welcome!
+This fork does not claim ownership of the RanvierMUD project. If the original maintainers are interested in reviewing or merging maintenance improvements, they are more than welcome, and I am happy to help.
 
 ---
 
