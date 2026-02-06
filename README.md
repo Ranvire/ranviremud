@@ -19,15 +19,15 @@ That work lives here:
 
 👉 **https://github.com/Ranvire/ranviermud**
 
-## Purpose of this fork
+## Purpose of this repository
 
-This fork is intentionally minimal and is not intended to be an active development repository. It exists for discoverability and to help people find related maintenance work happening elsewhere.
+This repository fork is intentionally minimal. It exists for discoverability, to help people find the actively maintained MUD project.
 
 If you are looking to experiment with Ranvier or follow ongoing maintenance efforts, please see the Ranvire repository linked above.
 
 ## Upstream respect
 
-This fork does not claim ownership of the RanvierMUD project. If the original maintainers are interested in reviewing or merging maintenance improvements, that discussion is welcome.
+This fork does not claim ownership of the RanvierMUD project. If the original maintainers are interested in reviewing or merging maintenance improvements, that discussion is more than welcome!
 
 ---
 
