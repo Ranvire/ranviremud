@@ -1,7 +1,7 @@
-![Ranvire Sand Castle](https://avatars.githubusercontent.com/u/259600333?s=200&v=4)
-# Ranvire (RanvierMUD Discovery Fork)
+![Rantamuta Sand Castle](https://avatars.githubusercontent.com/u/259600333?s=200&v=4)
+# Rantamuta (RanvierMUD Discovery Fork)
 
-This repository is a **discovery fork** for the original [RanvierMUD](https://github.com/RanvierMUD/ranviermud) project, pointing to an active maintenance project [RanvireMUD](https://github.com/Ranvire/ranviermud)
+This repository is a **discovery fork** for the original [RanvierMUD](https://github.com/RanvierMUD/ranviermud) project, pointing to an active maintenance project [RantamutaMUD](https://github.com/Rantamuta/ranviermud)
 
 This repo exists to remain visible in the upstream fork network and to point interested users to this separate effort focused on modernizing and stabilizing the Ranvier engine, including:
 
@@ -12,13 +12,13 @@ This repo exists to remain visible in the upstream fork network and to point int
 
 That work lives here:
 
-👉 **https://github.com/Ranvire/ranviermud**
+👉 **https://github.com/Rantamuta/ranviermud**
 
 ## Purpose of this repository
 
 This repository fork is intentionally minimal. It exists for discoverability, to help people find the actively maintained MUD project.
 
-If you are looking to experiment with Ranvier or follow ongoing maintenance efforts, please see the Ranvire repository linked above.
+If you are looking to experiment with Ranvier or follow ongoing maintenance efforts, please see the Rantamuta repository linked above.
 
 ## Upstream respect
 
